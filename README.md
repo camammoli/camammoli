@@ -24,6 +24,12 @@ Todo lo que publico nació de un problema real. Lo comparto por si le ahorra tie
 | [radio](https://github.com/camammoli/radio) | 600+ radios argentinas desde bash con mplayer / VLC / mpv |
 | [Teclado](https://github.com/camammoli/Teclado) | Detecta el layout de teclado en Linux mediante cuestionario interactivo |
 
+### Herramientas web para radioaficionados
+
+| Herramienta | Descripción |
+|---|---|
+| [QSLforge](https://mammoli.ar/qslforge/) | Generador gratuito de tarjetas QSL desde cualquier log ADIF — sin cuenta, sin instalación. Diseño visual, lote en ZIP o envío por email a cada OM |
+
 ### Proyectos propios (privados por ahora)
 
 - **Sistema de gestión multi-tenant** — tickets, casos, correos y tareas con bots de IA integrados
