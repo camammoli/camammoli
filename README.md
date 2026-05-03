@@ -33,6 +33,7 @@ Todo lo que publico nació de un problema real. Lo comparto por si le ahorra tie
 ### Proyectos propios (privados por ahora)
 
 - **Sistema de gestión multi-tenant** — tickets, casos, correos y tareas con bots de IA integrados
+- **Finanzas Mammoli** — gestión financiera familiar con multi-usuario real, presupuestos, importación CSV/XLSX y reportes
 - **QSL Manager** — logbook, tarjetas QSL digitales, confirmaciones y exportación ADIF para radioaficionados
 - **claude-email-bot** — agente de email con ruteo por reglas, identidad escalonada y modo legal
 
