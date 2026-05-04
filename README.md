@@ -23,6 +23,8 @@ Todo lo que publico nació de un problema real. Lo comparto por si le ahorra tie
 | [lista_pihole](https://github.com/camammoli/lista_pihole) | Blocklist agresiva para Pi-hole: bloquea ads splash en apps de cámara, IoT y CCTV |
 | [radio](https://github.com/camammoli/radio) | 600+ radios argentinas desde bash con mplayer / VLC / mpv |
 | [Teclado](https://github.com/camammoli/Teclado) | Detecta el layout de teclado en Linux mediante cuestionario interactivo |
+| [iptv](https://github.com/camammoli/iptv) | Lista M3U de canales de TV argentina para VLC, Kodi y TiviMate |
+| [Manuales](https://github.com/camammoli/Manuales) | Colección de libros y manuales de programación gratuitos (Python, Git, PHP, Linux y más) |
 
 ### Herramientas web para radioaficionados
 
