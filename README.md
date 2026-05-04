@@ -29,6 +29,7 @@ Todo lo que publico nació de un problema real. Lo comparto por si le ahorra tie
 | Herramienta | Descripción |
 |---|---|
 | [QSLforge](https://mammoli.ar/qslforge/) | Generador gratuito de tarjetas QSL desde cualquier log ADIF — sin cuenta, sin instalación. Diseño visual, lote en ZIP o envío por email a cada OM |
+| [Callsign Card Generator](https://mammoli.ar/callsign-card/) | Generador de imágenes para radioaficionados: patente argentina, QSL header, ID card y banner para redes. Calculadora Maidenhead, zonas CQ/ITU y distancia entre grids |
 
 ### Proyectos propios (privados por ahora)
 
