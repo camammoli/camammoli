@@ -21,8 +21,8 @@ Del firmware en ensamblador para PIC hasta los agentes de IA. Cuarenta años cru
 | [vaca](https://github.com/camammoli/vaca) | Colecta grupal — seguimiento de aportes y gastos compartidos |
 | [amigo](https://github.com/camammoli/amigo) | Amigo invisible — asignación aleatoria anónima con restricciones |
 | [split](https://github.com/camammoli/split) | Divisor de gastos — quién le debe cuánto a quién |
-| [QSLforge](https://mammoli.ar/qslforge/) | Generador gratuito de tarjetas QSL desde cualquier log ADIF — sin cuenta, sin instalación |
-| [Callsign Card Generator](https://mammoli.ar/callsign-card/) | Generador de imágenes para radioaficionados: patente argentina, QSL header, ID card y banner |
+| [QSLforge](https://github.com/camammoli/qslforge) | Generador gratuito de tarjetas QSL desde cualquier log ADIF — sin cuenta, sin instalación |
+| [Callsign Card Generator](https://github.com/camammoli/callsign-card) | Generador de imágenes para radioaficionados: patente argentina, QSL header, ID card y banner |
 
 ### Herramientas de terminal y sistema
 
