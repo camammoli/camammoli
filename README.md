@@ -16,6 +16,7 @@ Del firmware en ensamblador para PIC hasta los agentes de IA. Cuarenta años cru
 
 | Herramienta | Descripción |
 |---|---|
+| [selfstats](https://github.com/camammoli/selfstats) | Dashboard de métricas para devs: tráfico histórico de repos GitHub + uso real de herramientas propias |
 | [sorteo](https://github.com/camammoli/sorteo) | Sorteador de comentarios de YouTube — multi-video, certificado con HMAC, sorteo oficial con bloqueo |
 | [lista](https://github.com/camammoli/lista) | Lista de compras compartida — PWA offline-first con SQLite |
 | [vaca](https://github.com/camammoli/vaca) | Colecta grupal — seguimiento de aportes y gastos compartidos |
