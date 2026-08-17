@@ -24,12 +24,15 @@ Del firmware en ensamblador para PIC hasta los agentes de IA. Cuarenta años cru
 | [split](https://github.com/camammoli/split) | Divisor de gastos — quién le debe cuánto a quién |
 | [QSLforge](https://github.com/camammoli/qslforge) | Generador gratuito de tarjetas QSL desde cualquier log ADIF — sin cuenta, sin instalación |
 | [Callsign Card Generator](https://github.com/camammoli/callsign-card) | Generador de imágenes para radioaficionados: patente argentina, QSL header, ID card y banner |
+| [KeyUp](https://github.com/camammoli/keyup) | Cliente DMR desde el navegador — conectate a BrandMeister sin hardware de radio |
+| [relojes](https://github.com/camammoli/relojes) | Dashboard de relojes reposicionables — hora mundial, alarmas, timers y cronómetro, sin build ni dependencias |
 
 ### Herramientas de terminal y sistema
 
 | Repo | Descripción |
 |---|---|
 | [mis-scripts](https://github.com/camammoli/mis-scripts) | Scripts de administración para Debian/Ubuntu y Raspberry Pi 5: monitoreo, backups, alertas Telegram, IA en la terminal |
+| [starlink-panel](https://github.com/camammoli/starlink-panel) | Dashboard local para monitorear tu Starlink en tiempo real — estado, latencia, obstrucción, mapa de satélites y alertas por Telegram, sin nube ni cuenta |
 | [climabot](https://github.com/camammoli/climabot) | Bot de Telegram para clima actual y pronóstico extendido — Open-Meteo, sin API key, en español |
 | [lista_pihole](https://github.com/camammoli/lista_pihole) | Blocklist agresiva para Pi-hole: bloquea ads splash en apps de cámara, IoT y CCTV |
 | [radio](https://github.com/camammoli/radio) | 600+ radios argentinas desde bash con mplayer / VLC / mpv |
