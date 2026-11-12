@@ -1,5 +1,7 @@
 # Carlos Ariel Mammoli · LU2MCA
 
+[![Archivado en Software Heritage](https://archive.softwareheritage.org/badge/origin/https://github.com/camammoli/camammoli/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/camammoli/camammoli)
+
 **Ugarteche, Luján de Cuyo, Mendoza — Argentina**
 
 Productor agropecuario de día, desarrollador de noche. Tengo una finca familiar en el piedemonte andino mendocino — nueces, zapallo, fiori di zucca — y también escribo software desde los tiempos en que era sysop de The Crypt BBS.
